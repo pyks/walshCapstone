@@ -43,7 +43,7 @@ walshCapstone/
 │   └── processed/
 │       └── fragrantica_clean.csv     ← Cleaned & encoded dataset
 │
-├── notebooks/
+├── notebook/
 │   ├── 01_data_collection.ipynb      ← Scraping walkthrough
 │   ├── 02_data_cleaning.ipynb        ← Cleaning, deduplication, outliers
 │   ├── 03_eda.ipynb                  ← Exploratory data analysis
