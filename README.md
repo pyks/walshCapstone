@@ -46,8 +46,13 @@ walshCapstone/
 │   │   │   ...
 │   │   └── fragrances_part_29.ndjson
 │   └── processed/
-│       ├── fragrantica_clean.csv     ← 96,145 rows × 22 cols
-│       └── model_ready.csv           ← 96,145 rows × 209 cols (187 feature columns)
+│       ├── fragrantica_clean_part_1.csv
+        ├── fragrantica_clean_part_2.csv ← 96,145 rows × 22 cols
+        ├── model_ready_part_1.csv
+        ├── model_ready_part_2.csv
+        ├── model_ready_part_3.csv
+        ├── model_ready_part_4.csv    ← 96,145 rows × 209 cols (187 feature columns)
+                                     
 │
 ├── notebooks/
 │   ├── 01_data_collection.ipynb
